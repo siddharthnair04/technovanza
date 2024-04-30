@@ -1,0 +1,15 @@
+{
+  "short_name": "Among Us",
+  "name": "Technovanza - Among Us IRL",
+  "icons": [
+    {
+      "src": "amongus_icon.png",
+      "type": "image/png",
+      "sizes": "2000x2000"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
